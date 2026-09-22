@@ -1,0 +1,4 @@
+streamlit>=1.36
+azure-storage-blob>=12.19
+azure-data-tables>=12.5
+python-dotenv>=1.0
